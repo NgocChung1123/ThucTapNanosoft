@@ -1,0 +1,70 @@
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\ResolveAssemblyReference.cache
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.pdb
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\LogError.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.Unity.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.pdb
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\LogError.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.Unity.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\ResolveAssemblyReference.cache
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\LogError.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.Unity.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\ResolveAssemblyReference.cache
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\DataAccess.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\LogError.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Release\Common.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Release\DataAccess.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Release\DataAccess.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Release\DataAccess.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Release\DataAccess.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Release\Common.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Release\Common.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Release\Common.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\obj\Release\ResolveAssemblyReference.cache
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\obj\Release\DataAccess.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\obj\Release\DataAccess.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\obj\Release\DataAccess.pdb

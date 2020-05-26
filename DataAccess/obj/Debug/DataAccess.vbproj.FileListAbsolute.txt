@@ -1,0 +1,252 @@
+E:\GiangNV\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\GiangNV\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+E:\GiangNV\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+E:\GiangNV\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.pdb
+E:\GiangNV\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.xml
+E:\GiangNV\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+E:\GiangNV\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+E:\GiangNV\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+E:\GiangNV\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.dll
+E:\GiangNV\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.pdb
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+E:\GiangNV\New folder\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+E:\GiangNV\New folder\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+E:\GiangNV\New folder\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+E:\GiangNV\New folder\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.dll
+E:\GiangNV\New folder\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.pdb
+E:\GiangNV\New folder\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.xml
+E:\GiangNV\New folder\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\GiangNV\New folder\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+E:\GiangNV\New folder\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+E:\GiangNV\New folder\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh - Copy (truoc khi lam tiep phan cua Hieu)\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh - Copy (truoc khi lam tiep phan cua Hieu)\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh - Copy (truoc khi lam tiep phan cua Hieu)\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh - Copy (truoc khi lam tiep phan cua Hieu)\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh - Copy (truoc khi lam tiep phan cua Hieu)\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh - Copy (truoc khi lam tiep phan cua Hieu)\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh - Copy (truoc khi lam tiep phan cua Hieu)\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\NANOSOFT\Hopistal\New VatTu NamDinh - Copy (truoc khi lam tiep phan cua Hieu)\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh - Copy (truoc khi lam tiep phan cua Hieu)\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh - Copy (truoc khi lam tiep phan cua Hieu)\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+E:\VatTu - Benh Vien Sai Gon Nam Dinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+E:\VatTu - Benh Vien Sai Gon Nam Dinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+E:\VatTu - Benh Vien Sai Gon Nam Dinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+E:\VatTu - Benh Vien Sai Gon Nam Dinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.dll
+E:\VatTu - Benh Vien Sai Gon Nam Dinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.pdb
+E:\VatTu - Benh Vien Sai Gon Nam Dinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.xml
+E:\VatTu - Benh Vien Sai Gon Nam Dinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\VatTu - Benh Vien Sai Gon Nam Dinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+E:\VatTu - Benh Vien Sai Gon Nam Dinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+E:\VatTu - Benh Vien Sai Gon Nam Dinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\binhtd\Desktop\GiangNV\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\binhtd\Desktop\GiangNV\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\binhtd\Desktop\GiangNV\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\binhtd\Desktop\GiangNV\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.dll
+C:\Users\binhtd\Desktop\GiangNV\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.pdb
+C:\Users\binhtd\Desktop\GiangNV\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.xml
+C:\Users\binhtd\Desktop\GiangNV\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\binhtd\Desktop\GiangNV\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\binhtd\Desktop\GiangNV\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\binhtd\Desktop\GiangNV\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+D:\Nano-Project\SGND\MayBacBinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+D:\Nano-Project\SGND\MayBacBinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+D:\Nano-Project\SGND\MayBacBinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+D:\Nano-Project\SGND\MayBacBinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.dll
+D:\Nano-Project\SGND\MayBacBinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.pdb
+D:\Nano-Project\SGND\MayBacBinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\bin\Debug\Common.xml
+D:\Nano-Project\SGND\MayBacBinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Nano-Project\SGND\MayBacBinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+D:\Nano-Project\SGND\MayBacBinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+D:\Nano-Project\SGND\MayBacBinh\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+E:\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+E:\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+E:\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+E:\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\Common.dll
+E:\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\Common.pdb
+E:\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\Common.xml
+E:\MY PROJECT\VatTu\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\MY PROJECT\VatTu\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+E:\MY PROJECT\VatTu\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+E:\MY PROJECT\VatTu\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+D:\Nano-Project\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+D:\Nano-Project\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+D:\Nano-Project\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+D:\Nano-Project\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\Common.dll
+D:\Nano-Project\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\Common.pdb
+D:\Nano-Project\MY PROJECT\VatTu\05_Sources\DataAccess\bin\Debug\Common.xml
+D:\Nano-Project\MY PROJECT\VatTu\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Nano-Project\MY PROJECT\VatTu\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+D:\Nano-Project\MY PROJECT\VatTu\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+D:\Nano-Project\MY PROJECT\VatTu\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+D:\Project-NanoSoft\DA_PKTiepNhanThuPhi\KY PHAT\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+D:\Project-NanoSoft\DA_PKTiepNhanThuPhi\KY PHAT\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+D:\Project-NanoSoft\DA_PKTiepNhanThuPhi\KY PHAT\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+D:\Project-NanoSoft\DA_PKTiepNhanThuPhi\KY PHAT\05_Sources\DataAccess\bin\Debug\Common.dll
+D:\Project-NanoSoft\DA_PKTiepNhanThuPhi\KY PHAT\05_Sources\DataAccess\bin\Debug\Common.pdb
+D:\Project-NanoSoft\DA_PKTiepNhanThuPhi\KY PHAT\05_Sources\DataAccess\bin\Debug\Common.xml
+D:\Project-NanoSoft\DA_PKTiepNhanThuPhi\KY PHAT\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Project-NanoSoft\DA_PKTiepNhanThuPhi\KY PHAT\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+D:\Project-NanoSoft\DA_PKTiepNhanThuPhi\KY PHAT\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+D:\Project-NanoSoft\DA_PKTiepNhanThuPhi\KY PHAT\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+E:\DA_BVNanoSoft2\ThienHoa\05_Sources\DataAccess\bin\Debug\DataAccess.dll
+E:\DA_BVNanoSoft2\ThienHoa\05_Sources\DataAccess\bin\Debug\DataAccess.pdb
+E:\DA_BVNanoSoft2\ThienHoa\05_Sources\DataAccess\bin\Debug\DataAccess.xml
+E:\DA_BVNanoSoft2\ThienHoa\05_Sources\DataAccess\bin\Debug\Common.dll
+E:\DA_BVNanoSoft2\ThienHoa\05_Sources\DataAccess\bin\Debug\Common.pdb
+E:\DA_BVNanoSoft2\ThienHoa\05_Sources\DataAccess\bin\Debug\Common.xml
+E:\DA_BVNanoSoft2\ThienHoa\05_Sources\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\DA_BVNanoSoft2\ThienHoa\05_Sources\DataAccess\obj\Debug\DataAccess.dll
+E:\DA_BVNanoSoft2\ThienHoa\05_Sources\DataAccess\obj\Debug\DataAccess.xml
+E:\DA_BVNanoSoft2\ThienHoa\05_Sources\DataAccess\obj\Debug\DataAccess.pdb
+E:\DA_BVNanoSoft2\ThienHoa\05_SourcesDP03.09.2013\DataAccess\bin\Debug\DataAccess.dll
+E:\DA_BVNanoSoft2\ThienHoa\05_SourcesDP03.09.2013\DataAccess\bin\Debug\DataAccess.pdb
+E:\DA_BVNanoSoft2\ThienHoa\05_SourcesDP03.09.2013\DataAccess\bin\Debug\DataAccess.xml
+E:\DA_BVNanoSoft2\ThienHoa\05_SourcesDP03.09.2013\DataAccess\bin\Debug\Common.dll
+E:\DA_BVNanoSoft2\ThienHoa\05_SourcesDP03.09.2013\DataAccess\bin\Debug\Common.pdb
+E:\DA_BVNanoSoft2\ThienHoa\05_SourcesDP03.09.2013\DataAccess\bin\Debug\Common.xml
+E:\DA_BVNanoSoft2\ThienHoa\05_SourcesDP03.09.2013\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\DA_BVNanoSoft2\ThienHoa\05_SourcesDP03.09.2013\DataAccess\obj\Debug\DataAccess.dll
+E:\DA_BVNanoSoft2\ThienHoa\05_SourcesDP03.09.2013\DataAccess\obj\Debug\DataAccess.xml
+E:\DA_BVNanoSoft2\ThienHoa\05_SourcesDP03.09.2013\DataAccess\obj\Debug\DataAccess.pdb
+E:\DA_BVNanoSoft2\NanoClinic_Basic\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.dll
+E:\DA_BVNanoSoft2\NanoClinic_Basic\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.pdb
+E:\DA_BVNanoSoft2\NanoClinic_Basic\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.xml
+E:\DA_BVNanoSoft2\NanoClinic_Basic\05_SourcesNgocNM\DataAccess\bin\Debug\Common.dll
+E:\DA_BVNanoSoft2\NanoClinic_Basic\05_SourcesNgocNM\DataAccess\bin\Debug\Common.pdb
+E:\DA_BVNanoSoft2\NanoClinic_Basic\05_SourcesNgocNM\DataAccess\bin\Debug\Common.xml
+E:\DA_BVNanoSoft2\NanoClinic_Basic\05_SourcesNgocNM\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\DA_BVNanoSoft2\NanoClinic_Basic\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.dll
+E:\DA_BVNanoSoft2\NanoClinic_Basic\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.xml
+E:\DA_BVNanoSoft2\NanoClinic_Basic\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.pdb
+D:\2. PROJECT\1. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.dll
+D:\2. PROJECT\1. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.pdb
+D:\2. PROJECT\1. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.xml
+D:\2. PROJECT\1. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.dll
+D:\2. PROJECT\1. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.pdb
+D:\2. PROJECT\1. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.xml
+D:\2. PROJECT\1. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\2. PROJECT\1. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.dll
+D:\2. PROJECT\1. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.xml
+D:\2. PROJECT\1. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.pdb
+E:\2. PROJECT\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.dll
+E:\2. PROJECT\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.pdb
+E:\2. PROJECT\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.xml
+E:\2. PROJECT\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.dll
+E:\2. PROJECT\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.pdb
+E:\2. PROJECT\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.xml
+E:\2. PROJECT\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\2. PROJECT\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.dll
+E:\2. PROJECT\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.xml
+E:\2. PROJECT\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.pdb
+E:\2. PROJECT\OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.dll
+E:\2. PROJECT\OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.pdb
+E:\2. PROJECT\OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.xml
+E:\2. PROJECT\OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.dll
+E:\2. PROJECT\OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.pdb
+E:\2. PROJECT\OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.xml
+E:\2. PROJECT\OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\2. PROJECT\OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.dll
+E:\2. PROJECT\OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.xml
+E:\2. PROJECT\OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.pdb
+E:\2. PROJECT\09. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.dll
+E:\2. PROJECT\09. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.pdb
+E:\2. PROJECT\09. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.xml
+E:\2. PROJECT\09. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.dll
+E:\2. PROJECT\09. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.pdb
+E:\2. PROJECT\09. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.xml
+E:\2. PROJECT\09. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\2. PROJECT\09. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.dll
+E:\2. PROJECT\09. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.xml
+E:\2. PROJECT\09. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.pdb
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.dll
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.pdb
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\DataAccess.xml
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.dll
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.pdb
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\bin\Debug\Common.xml
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.dll
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.xml
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_SourcesNgocNM\DataAccess\obj\Debug\DataAccess.pdb
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_Sources_basic\DataAccess\bin\Debug\DataAccess.dll
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_Sources_basic\DataAccess\bin\Debug\DataAccess.pdb
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_Sources_basic\DataAccess\bin\Debug\DataAccess.xml
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_Sources_basic\DataAccess\bin\Debug\Common.dll
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_Sources_basic\DataAccess\bin\Debug\Common.pdb
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_Sources_basic\DataAccess\bin\Debug\Common.xml
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_Sources_basic\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_Sources_basic\DataAccess\obj\Debug\DataAccess.dll
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_Sources_basic\DataAccess\obj\Debug\DataAccess.xml
+G:\Project\99. OTHER\BASICBANDAU\01. BASIC\05_Sources_basic\DataAccess\obj\Debug\DataAccess.pdb
+D:\Project3_DEV15\05_Sources_Basic\DataAccess\bin\Debug\DataAccess.dll
+D:\Project3_DEV15\05_Sources_Basic\DataAccess\bin\Debug\DataAccess.pdb
+D:\Project3_DEV15\05_Sources_Basic\DataAccess\bin\Debug\DataAccess.xml
+D:\Project3_DEV15\05_Sources_Basic\DataAccess\bin\Debug\Common.dll
+D:\Project3_DEV15\05_Sources_Basic\DataAccess\bin\Debug\Common.pdb
+D:\Project3_DEV15\05_Sources_Basic\DataAccess\bin\Debug\Common.xml
+D:\Project3_DEV15\05_Sources_Basic\DataAccess\obj\Debug\DataAccess.vbprojResolveAssemblyReference.cache
+D:\Project3_DEV15\05_Sources_Basic\DataAccess\obj\Debug\DataAccess.dll
+D:\Project3_DEV15\05_Sources_Basic\DataAccess\obj\Debug\DataAccess.xml
+D:\Project3_DEV15\05_Sources_Basic\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\bin\Debug\Common.dll
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\bin\Debug\Common.pdb
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\bin\Debug\Common.xml
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\obj\Debug\DataAccess.vbprojAssemblyReference.cache
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\obj\Debug\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\obj\Debug\DataAccess.vbproj.CopyComplete
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\chung\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\05_Sources_Basic\DataAccess\obj\Debug\DataAccess.pdb

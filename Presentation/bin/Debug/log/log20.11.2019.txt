@@ -1,0 +1,5 @@
+<Log Entry> : 10:34:05 AM Wednesday, November 20, 2019
+<Position>  : spDMGioiTinh_SelectAll
+<Message>   : Cannot open database "BASIC" requested by the login. The login failed.
+Login failed for user 'sa'.
+--------------------------------------------------------------------------------------

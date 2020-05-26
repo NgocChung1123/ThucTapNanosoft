@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication2
+</name>
+</assembly>
+<members>
+<member name="M:WindowsApplication2.modPublic.ToDate(System.DateTime)">
+	<summary>
+ Chuyen doi gia tri dau vao o dang DateTime sang Date thuan tuy
+ ex :   input - 11/25/2010 12:25:55 PM 
+        output - 11/25/2010 
+ </summary>
+	<param name="value"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication2.modPublic.ReturnAutoString(System.String)">
+	<summary>
+ Tra lai dinh dang ID+Nam+Thang+Ngay+Gio+Phut+Giay
+ </summary>
+	<param name="ID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:WindowsApplication2.NewDataSet.PhieuNhapVatTuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication2.NewDataSet.PhieuXuatBanLeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication2.NewDataSet.PhieuNhapVatTuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication2.NewDataSet.PhieuXuatBanLeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication2.NewDataSet.PhieuNhapVatTuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication2.NewDataSet.PhieuXuatBanLeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication2.NewDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

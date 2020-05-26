@@ -1,0 +1,16 @@
+<Log Entry> : 8:57:14 AM Monday, May 18, 2020
+<Position>  : spDMGioiTinh_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:54:24 AM Monday, May 18, 2020
+<Position>  : spDMGioiTinh_SelectAll
+<Message>   : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+--------------------------------------------------------------------------------------
+<Log Entry> : 9:59:59 AM Monday, May 18, 2020
+<Position>  : spDMGioiTinh_SelectAll
+<Message>   : Login failed for user 'sa'.
+--------------------------------------------------------------------------------------
+<Log Entry> : 10:19:51 AM Monday, May 18, 2020
+<Position>  : spDMGioiTinh_SelectAll
+<Message>   : Could not find stored procedure 'spDMGioiTinh_SelectAll'.
+--------------------------------------------------------------------------------------

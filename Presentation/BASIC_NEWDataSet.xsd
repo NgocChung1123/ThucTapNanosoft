@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BASIC_NEWDataSet" targetNamespace="http://tempuri.org/BASIC_NEWDataSet.xsd" xmlns:mstns="http://tempuri.org/BASIC_NEWDataSet.xsd" xmlns="http://tempuri.org/BASIC_NEWDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="QLHSBAConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLHSBAConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Presentation.My.MySettings.GlobalReference.Default.QLHSBAConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DMDiaChiTableAdapter" GeneratorDataComponentClassName="DMDiaChiTableAdapter" Name="DMDiaChi" UserDataComponentName="DMDiaChiTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLHSBAConnectionString (MySettings)" DbObjectName="BASIC_NEW.dbo.DMDiaChi" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT IDQuocGia, TenQuocGia, IDTinhThanh, TenTinhThanh, IDQuanHuyen, TenQuanHuyen, GhiChu FROM dbo.DMDiaChi</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="IDQuocGia" DataSetColumn="IDQuocGia" />
+              <Mapping SourceColumn="TenQuocGia" DataSetColumn="TenQuocGia" />
+              <Mapping SourceColumn="IDTinhThanh" DataSetColumn="IDTinhThanh" />
+              <Mapping SourceColumn="TenTinhThanh" DataSetColumn="TenTinhThanh" />
+              <Mapping SourceColumn="IDQuanHuyen" DataSetColumn="IDQuanHuyen" />
+              <Mapping SourceColumn="TenQuanHuyen" DataSetColumn="TenQuanHuyen" />
+              <Mapping SourceColumn="GhiChu" DataSetColumn="GhiChu" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BASIC_NEWDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="BASIC_NEWDataSet" msprop:Generator_UserDSName="BASIC_NEWDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DMDiaChi" msprop:Generator_TableClassName="DMDiaChiDataTable" msprop:Generator_TableVarName="tableDMDiaChi" msprop:Generator_TablePropName="DMDiaChi" msprop:Generator_RowDeletingName="DMDiaChiRowDeleting" msprop:Generator_RowChangingName="DMDiaChiRowChanging" msprop:Generator_RowEvHandlerName="DMDiaChiRowChangeEventHandler" msprop:Generator_RowDeletedName="DMDiaChiRowDeleted" msprop:Generator_UserTableName="DMDiaChi" msprop:Generator_RowChangedName="DMDiaChiRowChanged" msprop:Generator_RowEvArgName="DMDiaChiRowChangeEvent" msprop:Generator_RowClassName="DMDiaChiRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IDQuocGia" msprop:Generator_ColumnVarNameInTable="columnIDQuocGia" msprop:Generator_ColumnPropNameInRow="IDQuocGia" msprop:Generator_ColumnPropNameInTable="IDQuocGiaColumn" msprop:Generator_UserColumnName="IDQuocGia">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenQuocGia" msprop:Generator_ColumnVarNameInTable="columnTenQuocGia" msprop:Generator_ColumnPropNameInRow="TenQuocGia" msprop:Generator_ColumnPropNameInTable="TenQuocGiaColumn" msprop:Generator_UserColumnName="TenQuocGia" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDTinhThanh" msprop:Generator_ColumnVarNameInTable="columnIDTinhThanh" msprop:Generator_ColumnPropNameInRow="IDTinhThanh" msprop:Generator_ColumnPropNameInTable="IDTinhThanhColumn" msprop:Generator_UserColumnName="IDTinhThanh">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenTinhThanh" msprop:Generator_ColumnVarNameInTable="columnTenTinhThanh" msprop:Generator_ColumnPropNameInRow="TenTinhThanh" msprop:Generator_ColumnPropNameInTable="TenTinhThanhColumn" msprop:Generator_UserColumnName="TenTinhThanh" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDQuanHuyen" msprop:Generator_ColumnVarNameInTable="columnIDQuanHuyen" msprop:Generator_ColumnPropNameInRow="IDQuanHuyen" msprop:Generator_ColumnPropNameInTable="IDQuanHuyenColumn" msprop:Generator_UserColumnName="IDQuanHuyen">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenQuanHuyen" msprop:Generator_ColumnVarNameInTable="columnTenQuanHuyen" msprop:Generator_ColumnPropNameInRow="TenQuanHuyen" msprop:Generator_ColumnPropNameInTable="TenQuanHuyenColumn" msprop:Generator_UserColumnName="TenQuanHuyen" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GhiChu" msprop:Generator_ColumnVarNameInTable="columnGhiChu" msprop:Generator_ColumnPropNameInRow="GhiChu" msprop:Generator_ColumnPropNameInTable="GhiChuColumn" msprop:Generator_UserColumnName="GhiChu" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DMDiaChi" />
+      <xs:field xpath="mstns:IDQuocGia" />
+      <xs:field xpath="mstns:IDTinhThanh" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

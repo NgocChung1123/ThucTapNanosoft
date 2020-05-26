@@ -1,0 +1,609 @@
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\ResolveAssemblyReference.cache
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmMain.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.Resources.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuNhap.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuNhapChiTiet.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuNhap.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuXuatBanLeChiTiet.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuXuatSuDungChiTiet.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuXuatSuDung.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDung.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.rptReportForm.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.vbproj.GenerateResource.Cache
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.exe.config
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.exe
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.pdb
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ConvertNumberToString.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\CREATE COMPONENT.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DevExpress.Web.ASPxGauges.v8.3.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\LogError.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.Unity.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\NANOSOFT_POPUP.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.pdb
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.pdb
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.pdb
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.exe
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.pdb
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuTraLaiVatTuDKNCC.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKNCC.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatBanLe.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatBanLe.resources
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKNCCChiTiet.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.exe.config
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.exe
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ConvertNumberToString.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\CREATE COMPONENT.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DevExpress.Web.ASPxGauges.v8.3.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\LogError.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.Unity.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\NANOSOFT_POPUP.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\ResolveAssemblyReference.cache
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmMain.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmMainDuoc.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.Resources.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuNhap.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuNhapChiTiet.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuNhap.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKNCC.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKNCCChiTiet.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuTraLaiVatTuDKNCC.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKKH.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKKHhiTiet.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuTraLaiVatTuDKKH.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatBanLe.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuXuatBanLeChiTiet.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatBanLe.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDung.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDungChiTiet.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDung.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.rptReportForm.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.vbproj.GenerateResource.Cache
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.exe
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapnhatDMLoaiVatTu.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMLoaiVatTu.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ComponentFactory.Krypton.Docking.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ComponentFactory.Krypton.Navigator.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ComponentFactory.Krypton.Ribbon.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ComponentFactory.Krypton.Workspace.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhanLoaiVatTu.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmCapnhatthuoc.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmDanhmucthuoc.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMPhanLoaiVatTu.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatDMQuocGia.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMQuocGia.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmCapnhatNhaCC.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmDMNhaCC.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapnhatDMHangSanXuat.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMHangSanXuat.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatDMDonvi.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMDonvi.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMKho.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachVatTuDaHetHan.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachVatTuDaSapHan.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachKiemKeVatTuTon.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatHuy.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatHuyChiTiet.resources
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatHuy.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\ResolveAssemblyReference.cache
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatDMQuocGia.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMQuocGia.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmMain.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmMainDuoc.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.MessageBox.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.Resources.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachVatTuDaHetHan.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachVatTuDaSapHan.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachKiemKeVatTuTon.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatHuy.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatHuyChiTiet.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatHuy.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuNhapVatTuKhoSangKho.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuNhapVatTuKhoSangKhoChiTiet.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuNhapVatTuKhoSangKho.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuNhap.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuNhapChiTiet.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuNhap.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKNCC.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKNCCChiTiet.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuTraLaiVatTuDKNCC.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKKH.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKKHhiTiet.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuTraLaiVatTuDKKH.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatBanLe.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuXuatBanLeChiTiet.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatBanLe.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatKhoSangKho.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatKhoSangKhoChiTiet.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatVatTuKhoSangKho.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDung.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDungChiTiet.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDung.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.rptReportForm.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.vbproj.GenerateResource.Cache
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.exe.config
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.exe
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ConvertNumberToString.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\CREATE COMPONENT.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DevExpress.Web.ASPxGauges.v8.3.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\LogError.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Office.Interop.Word.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.Unity.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\NANOSOFT_POPUP.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ValidateControls.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Vbe.Interop.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\office.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Office.Interop.Word.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\office.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.exe
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapnhatDMLoaiVatTu.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMLoaiVatTu.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhanLoaiVatTu.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMPhanLoaiVatTu.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmCapnhatNhaCC.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmDMNhaCC.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapnhatDMHangSanXuat.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMHangSanXuat.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatDMDonvi.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMDonvi.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmCapNhatKho.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMKho.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmCapnhatthuoc.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhMucThuoc.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatGhiChuCachDung.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMGhiChuCachDungThuoc.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatDMCachDungThuoc.resources
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmDMCachDungThuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.exe.config
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.exe
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\HOSMAN1.0.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ConvertNumberToString.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\CREATE COMPONENT.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DevExpress.Web.ASPxGauges.v8.3.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\LogError.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\NANOSOFT_POPUP.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\ValidateControls.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\office.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Office.Interop.Word.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\DataAccess.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Bussiness.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\Common.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\office.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\NANOSOFT_POPUP.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\bin\Release\NANOSOFT_POPUP.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatDMCachDungThuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatDMDonvi.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapnhatDMHangSanXuat.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapnhatDMLoaiVatTu.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatDMQuocGia.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatGhiChuCachDung.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmCapNhatKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmCapnhatNhaCC.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhanLoaiVatTu.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmCapnhatthuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhMucThuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmDMCachDungThuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMDonvi.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMGhiChuCachDungThuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMHangSanXuat.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMLoaiVatTu.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.FrmDMNhaCC.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMPhanLoaiVatTu.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDMQuocGia.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmMain.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCauHinhHeThong.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatKhoiTaoSoLieuBanDau.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmKhoiTaoSoLieuBanDau.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuBaoHiemChoCapThuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuBaoHiemChoCapThuocChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuBaoHiemChoCapThuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatCapThuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatCapThuocChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatCapThuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatDonThuocDichVuBanLe.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatBanLeNoiTru.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatBanLeNoiTru.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDungKeKhaiThuocVTYTCapCuuTieuHao.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDungThuThuatNoiTru.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDungThuThuatNoiTru.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDung.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDungChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDung.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuYeuCauXuatVatTuChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuYeuCauXuatVatTu.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuYeuCauXuatVatTu.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmThayDoiThongTinKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.MessageBox.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.Resources.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachVatTuDaHetHan.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachVatTuDaSapHan.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachKiemKeVatTuTon.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatHuy.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatHuyChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatHuy.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuNhapVatTuKhoSangKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuNhapVatTuKhoSangKhoChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuNhapVatTuKhoSangKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuNhap.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuNhapChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuNhap.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraKhoSangKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraKhoSangKhoChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuTraVatTuKhoSangKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKNCC.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKNCCChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuTraLaiVatTuDKNCC.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKKH.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKKHhiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuTraLaiVatTuDKKH.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatBanLe.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhieuXuatBanLeChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatBanLe.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatKhoSangKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatKhoSangKhoChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatVatTuKhoSangKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDungNoiTru.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDungNoiTruChiTiet.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDungNoiTru.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmMainDuoc.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmBaoCaoDoanhThu.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmBaoCaoTonKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.rptReportForm.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmTheKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmTongHopNhapXuatTon.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.vbproj.GenerateResource.Cache
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.exe
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\HOSMAN1.0.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmCapNhatPhanQuyenKho.resources
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Presentation\obj\Release\Presentation.frmPhanQuyenKho.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\ResolveAssemblyReference.cache
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCacLoConSoLuong.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCauHinhPhong.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCauHinhSuDung.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDangNhap_Key.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmKey.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmPhanLoTuDong.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmPhanQuyenBacSyTheoUser.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmRepairConfig.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmTheoDoiNguoiDung.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDangNhap.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmPhanQuyenKhoDuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDoiPassword.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMNguoiDung.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmPhanQuyen.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmSaoluuDulieu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmWelcome.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMCachDungThuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMDonvi.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapnhatDMHangSanXuat.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapnhatDMLoaiVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMNhomVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMQuocGia.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatGhiChuCachDung.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.FrmCapNhatKho.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.FrmCapnhatNhaCC.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatPhanLoaiVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatPhanQuyenKho.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.FrmCapnhatthuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMThuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.FrmDMCachDungThuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMDonvi.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMGhiChuCachDungThuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMHangSanXuat.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMKho.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMLoaiVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.FrmDMNhaCC.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMNhomVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMPhanLoaiVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMQuocGia.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmPhanQuyenKho.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatKhoiTaoSoLieuBanDau.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmKhoiTaoSoLieuBanDau.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuKiemKeTon.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuKiemKeTonB.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatKiemKeTonChiTietA.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatKiemKeTonChiTietB.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuKiemKeVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatPhieuBaoHiemChoCapThuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatPhieuBaoHiemChoCapThuocChiTiet.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuBaoHiemChoCapThuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatCapThuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatCapThuocChiTiet.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatCapThuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDungKeKhaiThuocVTYTCapCuuTieuHao.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDungNoiTruChiTiet.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDungThuThuatNoiTru.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDungThuThuatNoiTru.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDung.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDungChiTiet.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDung.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatPhieuYeuCauXuatVatTuChiTiet.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatPhieuYeuCauXuatVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuYeuCauXuatVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCanhBaoHanSuDung.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmThayDoiThongTinKho.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.MessageBox.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.Resources.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatHuy.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatHuyChiTiet.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatHuy.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKNCC.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKNCCChiTiet.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuTraLaiVatTuDKNCC.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKKH.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuTraLaiVatTuDKKHhiTiet.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuTraLaiVatTuDKKH.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhapPhieuXuatSuDungNoiTru.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuXuatSuDungNoiTru.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmMainDuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmBaoCaoDoanhThu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmBaoCaoTonKho.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmTheoDoiTonCacKho.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.rptReportForm.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmTheKho.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmTongHopNhapXuatTon.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhMuc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMBacSy.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMBacSy.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMDichVu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMDichVu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMLoaiDichVu_Cap1.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMLoaiDV.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMLoaiDichVu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMLoaiDichVu_Cap1.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMPhong.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMPhong.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDanhSachBenhNhan.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachBenhNhanChoLeTan.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachLichHen.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmLichHen.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmLyDoHuy.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmChonInKhamBenh.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDonThuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmPhiemKhamBenhVaoVien.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmPhieuChiTien.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatThuPhi.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachBenhNhan.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMDanToc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMDanToc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMGioiTinh.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMGioiTinh.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMNgheNghiep.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMNgheNghiep.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMQuanHuyen.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMQuanHuyen.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmCapNhatDMTinhThanh.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDMTinhThanh.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachPhieuKham.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmSuaChuaThongTinBenhNhan.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.MyAppointmentEditForm.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDanhSachDichVu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmKhoaPhieuKham.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmBaoCaoDoanhThuTongHopThuocVatTu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmBaoCaoDoanhThuTongHop_Khong.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmDSPhieuChi.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmReportChiTietDichVu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmThuPhiHuyDichVu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmBaoCaoDoanhThuTongHop.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmReportTongHopDichVuTheoPhong.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmReportTongHopDichVuTheoNguoiDung.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmReportTongHopDichVuTheoBacSy.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmReportDichVuKham.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.frmTongHopBaoCaoDoanhThu_Khong.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.rptPhieuHen.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.rptPhieuKham.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.rptPhieuKham_A6.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.rptPhieuKham_InNhiet.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.rptPhieuThuThuoc.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.rptPhieuThuThuoc_A6.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.XtraReport_DonThuocDichVu.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.XtraReport_DonThuocDichVu_A4.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.XtraReport_DonThuocDongY.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.XtraReport_DonThuocDongY_A4.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.XtraReport_PhieuChiTien.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.xfReportPK.resources
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.vbproj.GenerateResource.Cache
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Presentation.exe.config
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Presentation.exe
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Presentation.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Presentation.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Bussiness.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Common.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\CrystalDecisions.Enterprise.Framework.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\CrystalDecisions.Enterprise.InfoStore.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\CrystalDecisions.ReportSource.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\CrystalDecisions.Shared.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DataAccess.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.BonusSkins.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.Charts.v8.3.Core.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.Data.v8.3.Compact.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.Data.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.Data.v8.3.Linq.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.OfficeSkins.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.SharePoint.MOSS.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.SharePoint.WSS.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.Tutorials.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.Utils.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraBars.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraBars.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraCharts.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraCharts.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraCharts.v8.3.UI.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraCharts.v8.3.Web.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraEditors.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraGauges.v8.3.Core.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraGauges.v8.3.Design.Win.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraGauges.v8.3.Presets.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraGauges.v8.3.Win.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraGrid.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraGrid.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraLayout.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraLayout.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraNavBar.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraNavBar.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraPivotGrid.v8.3.Core.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraPivotGrid.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraPivotGrid.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraPrinting.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraPrinting.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraReports.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraReports.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraReports.v8.3.Import.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraReports.v8.3.Web.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraRichEdit.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraRichEdit.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraRichEdit.v8.3.Extensions.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.Core.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.Extensions.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.iCalendarExchange.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.OutlookExchange.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.Printing.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.VCalendarExchange.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraSpellChecker.v8.3.Core.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraSpellChecker.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraSpellChecker.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraTreeList.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraTreeList.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraVerticalGrid.v8.3.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraVerticalGrid.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraWizard.v8.3.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\LogError.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Microsoft.Office.Interop.Word.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Microsoft.Practices.Unity.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\NANOSOFT_POPUP.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.configuration.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.Core.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.Data.DataSetExtensions.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.Data.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.Deployment.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.Design.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.Drawing.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.Web.Services.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.Windows.Forms.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.Xml.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\System.Xml.Linq.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\ValidateControls.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\office.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Microsoft.Vbe.Interop.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Microsoft.Office.Interop.Word.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraBars.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\NANOSOFT_POPUP.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\NANOSOFT_POPUP.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.Extensions.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraRichEdit.v8.3.Extensions.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\CrystalDecisions.ReportSource.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\CrystalDecisions.Windows.Forms.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraSpellChecker.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraRichEdit.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraCharts.v8.3.Web.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraEditors.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraPrinting.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Bussiness.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Bussiness.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.Utils.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraPivotGrid.v8.3.Core.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.iCalendarExchange.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraWizard.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraCharts.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraGauges.v8.3.Win.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraPivotGrid.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Common.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Common.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraCharts.v8.3.UI.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\office.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\CrystalDecisions.Shared.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraNavBar.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraTreeList.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraReports.v8.3.Web.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraSpellChecker.v8.3.Core.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraReports.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraVerticalGrid.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DataAccess.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DataAccess.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraLayout.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraScheduler.v8.3.Core.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraGauges.v8.3.Core.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.XtraGrid.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\bin\Release\DevExpress.Data.v8.3.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.exe
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Presentation\obj\Release\Presentation.pdb

@@ -1,0 +1,35 @@
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.pdb
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\ResolveAssemblyReference.cache
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.dll
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.xml
+D:\Basetemp\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.pdb
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\ResolveAssemblyReference.cache
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.dll
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.xml
+D:\Basetemp\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.pdb
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\ResolveAssemblyReference.cache
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.dll
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.xml
+D:\NANOSOFT\Hopistal\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.pdb
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\bin\Release\Common.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.dll
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.xml
+C:\Documents and Settings\PhongLan\Desktop\New VatTu NamDinh\Hopistal\NaNo Hospistal\05_Sources\Common\obj\Release\Common.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\Common\bin\Release\Common.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Common\bin\Release\Common.pdb
+E:\PROJECT\BASIC\05_SourcesNgocNM\Common\bin\Release\Common.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Common\obj\Release\ResolveAssemblyReference.cache
+E:\PROJECT\BASIC\05_SourcesNgocNM\Common\obj\Release\Common.dll
+E:\PROJECT\BASIC\05_SourcesNgocNM\Common\obj\Release\Common.xml
+E:\PROJECT\BASIC\05_SourcesNgocNM\Common\obj\Release\Common.pdb

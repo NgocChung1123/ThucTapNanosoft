@@ -1,0 +1,142 @@
+
+Imports Microsoft.Practices.EnterpriseLibrary.Data
+Imports System.Data
+Imports System.Data.Common
+
+Public Class DMGioiTinhDA
+    Implements IDMGioiTinhDA
+
+    Private objLog As New LogError.ShowError
+
+    Public Sub InsertDMGioiTinh(ByVal DMGioiTinh As Common.DMGioiTinhEntity) Implements IDMGioiTinhDA.InsertDMGioiTinh
+        '/* Create by Phạm Phú Đăng */
+        '/* Company: Công ty cổ phẩn công nghệ Nanosoft */
+        '/* Insert into table */
+        Try
+            Dim db As Database
+            Dim sp As String = "spDMGioiTinh_Insert"
+            Dim objCmd As DbCommand
+            db = DatabaseFactory.CreateDatabase()
+            objCmd = db.GetStoredProcCommand(sp)
+            db.AddInParameter(objCmd, "@" & Common.DMGioiTinhEntity.Column_TenGioiTinh, System.Data.DbType.String, DMGioiTinh.TenGioiTinh)
+            db.AddInParameter(objCmd, "@" & Common.DMGioiTinhEntity.Column_GhiChu, System.Data.DbType.String, DMGioiTinh.GhiChu)
+            db.AddInParameter(objCmd, "@" & Common.DMGioiTinhEntity.Column_MaGioiTinh, System.Data.DbType.String, DMGioiTinh.IDGioiTinh)
+            db.ExecuteNonQuery(objCmd)
+        Catch ex As Exception
+            objLog.WriteLog("spDMGioiTinh_Insert", ex.Message)
+            MessageBox.Show(ex.Message)
+        End Try
+
+    End Sub
+    Public Function SelectDMGioiTinhByPrimaryKey(ByVal IDGioiTinh As String) As Common.DMGioiTinhEntity Implements IDMGioiTinhDA.SelectDMGioiTinhByPrimaryKey
+        '/* Create by Phạm Phú Đăng */
+        '/* Company: Công ty cổ phẩn công nghệ Nanosoft */
+        '/* Select by primarykey */
+        Dim db As Database
+        Dim sp As String = "spDMGioiTinh_SelectByPrimaryKey"
+        Dim objCmd As DbCommand
+        Dim r As IDataReader
+        Dim objDMGioiTinh As Common.DMGioiTinhEntity = Nothing
+        ''1)------------------------------------------------------
+        Try
+            db = DatabaseFactory.CreateDatabase()
+            objCmd = db.GetStoredProcCommand(sp)
+
+            db.AddInParameter(objCmd, "@" & Common.DMGioiTinhEntity.Column_MaGioiTinh, System.Data.DbType.String, IDGioiTinh)
+            r = db.ExecuteReader(objCmd)
+            ''2)------------------------------------------------------
+
+            If r.Read Then
+                objDMGioiTinh = New Common.DMGioiTinhEntity
+                With objDMGioiTinh
+                    .IDGioiTinh = r.Item(Common.DMGioiTinhEntity.Column_MaGioiTinh)
+                    .TenGioiTinh = r.Item(Common.DMGioiTinhEntity.Column_TenGioiTinh)
+                    .GhiChu = r.Item(Common.DMGioiTinhEntity.Column_GhiChu)
+                End With
+            End If
+        Catch ex As Exception
+            objLog.WriteLog("spDMGioiTinh_SelectByPrimaryKey", ex.Message)
+            MessageBox.Show(ex.Message)
+        End Try
+        ''3)------------------------------------------------------
+        Return objDMGioiTinh
+    End Function
+    Public Sub UpdateDMGioiTinh(ByVal DMGioiTinh As Common.DMGioiTinhEntity) Implements IDMGioiTinhDA.UpdateDMGioiTinh
+        '/* Create by Phạm Phú Đăng */
+        '/* Company: Công ty cổ phẩn công nghệ Nanosoft */
+        '/* Update table */
+        Try
+            Dim db As Database
+            Dim sp As String = "spDMGioiTinh_Update"
+            Dim objCmd As DbCommand
+
+            ''------------------------------------------------------
+            db = DatabaseFactory.CreateDatabase()
+            objCmd = db.GetStoredProcCommand(sp)
+            db.AddInParameter(objCmd, "@" & Common.DMGioiTinhEntity.Column_MaGioiTinh, System.Data.DbType.String, DMGioiTinh.IDGioiTinh)
+            db.AddInParameter(objCmd, "@" & Common.DMGioiTinhEntity.Column_TenGioiTinh, System.Data.DbType.String, DMGioiTinh.TenGioiTinh)
+            db.AddInParameter(objCmd, "@" & Common.DMGioiTinhEntity.Column_GhiChu, System.Data.DbType.String, DMGioiTinh.GhiChu)
+            db.ExecuteNonQuery(objCmd)
+        Catch ex As Exception
+            objLog.WriteLog("spDMGioiTinh_Update", ex.Message)
+            MessageBox.Show(ex.Message)
+        End Try
+    End Sub
+    Public Function SelectAllDMGioiTinh() As System.Collections.Generic.List(Of Common.DMGioiTinhEntity) Implements IDMGioiTinhDA.SelectAllDMGioiTinh
+        '/* Create by Phạm Phú Đăng */
+        '/* Company: Công ty cổ phẩn công nghệ Nanosoft */
+        '/* Select All */
+        Dim db As Database
+        Dim sp As String = "spDMGioiTinh_SelectAll"
+        Dim objCmd As DbCommand
+        Dim objDs As DataSet
+        Dim lstDMGioiTinh As List(Of Common.DMGioiTinhEntity) = Nothing
+        Dim i As Integer = 0
+        ''1)------------------------------------------------------
+        Try
+            db = DatabaseFactory.CreateDatabase()
+            objCmd = db.GetStoredProcCommand(sp)
+            objDs = db.ExecuteDataSet(objCmd)
+            ''2)------------------------------------------------------
+            If objDs.Tables.Count > 0 AndAlso objDs.Tables(0).Rows.Count > 0 Then
+                lstDMGioiTinh = New List(Of Common.DMGioiTinhEntity)
+                For Each r As DataRow In objDs.Tables(0).Rows
+                    lstDMGioiTinh.Add(New Common.DMGioiTinhEntity)
+                    With lstDMGioiTinh(i)
+                        .IDGioiTinh = r.Item(Common.DMGioiTinhEntity.Column_MaGioiTinh)
+                        .GhiChu = r.Item(Common.DMGioiTinhEntity.Column_GhiChu)
+                        .TenGioiTinh = r.Item(Common.DMGioiTinhEntity.Column_TenGioiTinh)
+                    End With
+                    i += 1
+                Next
+            End If
+        Catch ex As Exception
+            objLog.WriteLog("spDMGioiTinh_SelectAll", ex.Message)
+            MessageBox.Show(ex.Message)
+        End Try
+
+        ''3)------------------------------------------------------
+
+        Return lstDMGioiTinh
+    End Function
+    Public Sub DeleteDMGioiTinh(ByVal IDGioiTinh As String) Implements IDMGioiTinhDA.DeleteDMGioiTinh
+        '/* Create by Phạm Phú Đăng */
+        '/* Company: Công ty cổ phẩn công nghệ Nanosoft */
+        '/* Delete from table */
+        Try
+            Dim db As Database
+            Dim sp As String = "spDMGioiTinh_DeleteByPrimaryKey"
+            Dim objCmd As DbCommand
+
+
+            ''------------------------------------------------------
+            db = DatabaseFactory.CreateDatabase()
+            objCmd = db.GetStoredProcCommand(sp)
+            db.AddInParameter(objCmd, "@" & Common.DMGioiTinhEntity.Column_MaGioiTinh, System.Data.DbType.String, IDGioiTinh)
+            db.ExecuteNonQuery(objCmd)
+        Catch ex As Exception
+            objLog.WriteLog("spDMGioiTinh_DeleteByPrimaryKey", ex.Message)
+            MessageBox.Show(ex.Message)
+        End Try
+    End Sub
+End Class

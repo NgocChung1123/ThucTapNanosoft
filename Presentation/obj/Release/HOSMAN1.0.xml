@@ -1,0 +1,256 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HOSMAN1.0
+</name>
+</assembly>
+<members>
+<member name="T:Presentation.rptVatTu.XuatSuDungDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptVatTu.PhieuXuatkhoSangKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptVatTu.TraVatTuKhoSangKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptVatTu.NhapKhoSangKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptVatTu.ThuocBaoHiemChoCapDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptVatTu.XuatSuDungRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptVatTu.PhieuXuatkhoSangKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptVatTu.TraVatTuKhoSangKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptVatTu.NhapKhoSangKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptVatTu.ThuocBaoHiemChoCapRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptVatTu.XuatSuDungRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptVatTu.PhieuXuatkhoSangKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptVatTu.TraVatTuKhoSangKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptVatTu.NhapKhoSangKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptVatTu.ThuocBaoHiemChoCapRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptVatTu">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuNhapVatTuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuXuatBanLeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuTraLaiVatTuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuXuatkhoSangKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuNhapVatTuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuXuatBanLeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuTraLaiVatTuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuXuatkhoSangKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuNhapVatTuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuXuatBanLeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuTraLaiVatTuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.NewDataSet.PhieuXuatkhoSangKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.NewDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Presentation.rptTongHop.TongHopNhapXuatTonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuCapThuocDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.BangTonKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuYeuCauXuatVatTuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.TheKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuDeNghiCapDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.BaoCaoDoanhThuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuYeuCauXuatVatTuNoiTruDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.TongHopNhapXuatTonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuCapThuocRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.BangTonKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuYeuCauXuatVatTuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.TheKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuDeNghiCapRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.BaoCaoDoanhThuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuYeuCauXuatVatTuNoiTruRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Presentation.rptTongHop.TongHopNhapXuatTonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuCapThuocRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptTongHop.BangTonKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuYeuCauXuatVatTuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptTongHop.TheKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuDeNghiCapRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptTongHop.BaoCaoDoanhThuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptTongHop.PhieuYeuCauXuatVatTuNoiTruRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Presentation.rptTongHop">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="M:Presentation.modPublic.ToDate(System.DateTime)">
+	<summary>
+ Chuyen doi gia tri dau vao o dang DateTime sang Date thuan tuy
+ ex :   input - 11/25/2010 12:25:55 PM 
+        output - 11/25/2010 
+ </summary>
+	<param name="value"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Presentation.modPublic.ReturnAutoString(System.String)">
+	<summary>
+ Tra lai dinh dang ID+Nam+Thang+Ngay+Gio+Phut+Giay
+ </summary>
+	<param name="ID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Presentation.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Presentation.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Presentation.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
